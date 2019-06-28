@@ -1,0 +1,4 @@
+
+(fp_lib_table
+  (lib (name "drawing_backup")(type KiCad)(uri "$(KIPRJMOD)/drawing_backup.pretty")(options "")(descr ""))
+)
