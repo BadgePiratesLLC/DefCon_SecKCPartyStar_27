@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 604)
+    (drawings 603)
     (tracks 248)
     (zones 0)
     (modules 27)
@@ -16457,9 +16457,6 @@
     (pad "" np_thru_hole circle (at -1.5 0 259) (size 0.9 0.9) (drill 0.9) (layers *.Cu *.Mask))
   )
 
-  (gr_text "Not for the faint of heart" (at 123 102) (layer B.SilkS)
-    (effects (font (size 0.6 0.6) (thickness 0.15)) (justify mirror))
-  )
   (gr_text JLCJLCJLCJLC (at 145 108.75) (layer B.SilkS)
     (effects (font (size 0.6 0.6) (thickness 0.05)) (justify mirror))
   )
