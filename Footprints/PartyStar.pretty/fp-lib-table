@@ -1,0 +1,4 @@
+
+(fp_lib_table
+  (lib (name "DCP_GUY")(type KiCad)(uri "$(KIPRJMOD)/DCP_GUY.pretty")(options "")(descr ""))
+)

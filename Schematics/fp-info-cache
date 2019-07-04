@@ -1,4 +1,4 @@
-16047955421758338
+16051079505011276
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -62075,6 +62075,13 @@ TO-264-5 Vertical RM 3.81mm
 0
 5
 5
+PartyStar
+DCP_GUY
+
+
+0
+0
+0
 PlasticFrog
 F.Cu_g832
 
@@ -70810,6 +70817,13 @@ Dongguan14500
 
 0
 4
+2
+Tests
+LED_0805_ReverseWithHole
+LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+diode
+0
+2
 2
 Tests
 QFN40P700X700X75-61N

@@ -1,4 +1,4 @@
-
 (fp_lib_table
-  (lib (name "drawing_backup")(type KiCad)(uri "$(KIPRJMOD)/drawing_backup.pretty")(options "")(descr ""))
+  (lib (name drawing_backup)(type KiCad)(uri "$(KIPRJMOD)/drawing_backup.pretty")(options "")(descr ""))
+  (lib (name PartyStar)(type KiCad)(uri /home/william/Documents/Projects/BadgePirates/defcon27-seckc_party/Footprints/PartyStar.pretty)(options "")(descr ""))
 )
