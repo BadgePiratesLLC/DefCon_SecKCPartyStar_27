@@ -1,4 +1,4 @@
-16051079505011276
+16055766214166276
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -62082,6 +62082,20 @@ DCP_GUY
 0
 0
 0
+PartyStar
+F.Cu_g835
+
+
+0
+0
+0
+PartyStar
+F.Silk_g839
+
+
+0
+0
+0
 PlasticFrog
 F.Cu_g832
 
@@ -65690,6 +65704,13 @@ diode
 SAO
 LED_0805_ReverseMount
 LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+diode
+0
+2
+2
+SAO
+LED_1206_ReverseMount
+LED SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
 diode
 0
 2
