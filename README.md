@@ -1,1 +1,1 @@
-Proposed 'badge' for the DEFCON 27 SecKC Party.
+Party Star 'badge' for the DEFCON 27 SecKC Party.
